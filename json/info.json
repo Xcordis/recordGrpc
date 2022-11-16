@@ -1,0 +1,43 @@
+{
+    "box_ids": [
+      2043731106
+    ],
+    "device_info": {
+      "device_id": 0,
+      "device_uuid": "37AA7147-EEF4-49CD-93CD-BC0F142FB0E6"
+    },
+    "opt": 0,
+    "peer": {
+      "ipv4": "246.142.81.95",
+      "ipv6": "2001:db8:3c4d:15:5d72:d436:1a53:9b3f",
+      "mask": "",
+      "port": 0,
+      "prikey": "",
+      "pubkey": ""
+    },
+    "user_info": {
+      "org_id": 0,
+      "tenant_name": "",
+      "token": "v4.local.0NthJyn8Nq2JE9LlYhwQgdOaKio9c9Z1RnhMEiTkVcbNxXWntp_odXZpTTfJm8bhA_2VApq3FiVSKa7D8sbk6EHi2UH19e7wZJtCgrjo4jT2UPI83TrIlfxc8v9zv44tE7nULZMutQcbOzvC86jJNil08Tw",
+      "user_id": 5
+    },
+    "gateway": [
+      {
+        "encrypt_mode": 1,
+        "gateway_id": 1,
+        "gateway_public_key": "78Kv3Ekw6nTiVgY3ZfmbNqcOk3BmrtDnPFZnnWwD3WM=",
+        "gateway_uuid": "7de2aac2-c221-4b6e-a854-b445f09e6870",
+        "id": 1,
+        "ip": "10.218.1.61",
+        "keep_alive": 25,
+        "mode": 0,
+        "mtu": 1400,
+        "name": "",
+        "obf_key": 411447378,
+        "transport": "wireguard",
+        "virtual_ipv4": "246.0.0.1/8",
+        "virtual_ipv6": "2001:0db8:3c4d:0015:4d6a:100:0000:0002/48",
+        "wireguard_port": 23209
+      }
+    ]
+}
